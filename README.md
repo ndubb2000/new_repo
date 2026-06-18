@@ -1,2 +1,2 @@
 # new_repo
-my new description
+edited readme
